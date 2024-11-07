@@ -1,0 +1,1 @@
+# Hybrid-Quantum-Convolutional-Neural-Network-Hybrid-QCNN-for-Dental-Image-Classification
